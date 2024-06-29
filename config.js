@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+91 6235 050 956', '𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈', true]
+  ['+918075116840', 'Aᴅɪᴛʜ', true]
 ]
 // Put your number here
 // [number, he creator/owner?, he developer?]
@@ -27,24 +27,24 @@ global.APIKeys = { // APIKey Here
 }
 
  global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
-  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
-  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
-  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
-  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+  'https://telegra.ph/file/30020130b423b209ec808.jpg', 'https://telegra.ph/file/30020130b423b209ec808.jpg',
+  'https://telegra.ph/file/30020130b423b209ec808.jpg', 'https://telegra.ph/file/30020130b423b209ec808.jpg',
+  'https://telegra.ph/file/30020130b423b209ec808.jpg', 'https://telegra.ph/file/30020130b423b209ec808.jpg',
+  'https://telegra.ph/file/30020130b423b209ec808.jpg', 'https://telegra.ph/file/30020130b423b209ec808.jpg',
+  'https://telegra.ph/file/30020130b423b209ec808.jpg', 'https://telegra.ph/file/30020130b423b209ec808.jpg'
 ]
 
 // Sticker WM
-global.packname = `「 Cʀᴇᴀᴛᴇᴅ Bʏ 𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈 」`
+global.packname = `「 Cʀᴇᴀᴛᴇᴅ Bʏ Aᴅɪᴛʜ 」`
 global.author = ''
 global.thumb = readFileSync('./me.png')
 global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ 𝖑𝖚𝖆 𝖘𝖊𝖗 𝖔𝖋𝖈 - 2023'
-global.bott = 'zoro md'
-global.nomorown = '916235050956'
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Aᴅɪᴛʜ -2024'
+global.bott = 'Rᴇxɪᴇ_ᴍᴅ'
+global.nomorown = '918075116840'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
